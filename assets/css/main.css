@@ -54,6 +54,8 @@ a .first-button{
     justify-content: center;
     height: 40px;
     margin-top: 10px;
+    position: relative;
+    right: -4%;
 }
 
 a{
